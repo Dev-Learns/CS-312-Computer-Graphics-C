@@ -1,0 +1,4 @@
+Enter coordinates of center: 200 100
+Enter x,y radius of ellipse: 15 20
+Enter the a & b: 100 80
+ 

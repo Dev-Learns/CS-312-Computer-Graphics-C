@@ -1,0 +1,6 @@
+for circle + two semi circle
+
+matrix is 100*100
+
+center =(50,50)
+radious=10

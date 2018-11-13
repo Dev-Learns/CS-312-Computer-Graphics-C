@@ -1,0 +1,6 @@
+entre the centre of the circle: (x1,y1):
+300
+320
+enter the radius
+40
+enter the length of line: 150
